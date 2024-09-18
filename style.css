@@ -3,3 +3,25 @@ body {
   height: 100%;
   margin: 0;
 }
+h{
+  color: red;
+}
+header{
+  text-align: center;
+}
+#featured-property{
+
+  text-align: center;
+}
+#details {
+  overflow: hidden;
+  background: red;
+   /* Clearfix for floated children */
+}
+
+#details div {
+  float: left;
+  width: 25%; 
+  box-sizing: border-box; 
+  padding: 10px; 
+}
