@@ -13,6 +13,9 @@ header{
 
   text-align: center;
 }
+#featured-property p{
+  width: 800px;
+}
 #details {
   overflow: hidden;
   background: red;
@@ -24,4 +27,5 @@ header{
   width: 25%; 
   box-sizing: border-box; 
   padding: 10px; 
+  text-align: center;
 }
